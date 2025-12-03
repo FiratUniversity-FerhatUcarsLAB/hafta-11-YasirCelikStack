@@ -1,3 +1,6 @@
+//250542010 Muhammet Yasir Çelik
+
+
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
@@ -25,3 +28,23 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+Stack Diyagrami : 
+
+-----------------------------
+| zoop(fred="breakfast ",   |  ← aktif çalışan metot
+|      bob=4)               |
+-----------------------------
+| clink(fork=4)             |
+-----------------------------
+| main()                    |
+-----------------------------
+
+
+Kod Ciktisi : 
+
+just for
+any not  more 
+It’s breakfast 
+!
+
