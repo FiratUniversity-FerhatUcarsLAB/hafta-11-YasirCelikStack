@@ -22,3 +22,20 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+Stack Diyagrami : 
+-----------------
+| ping()       |   
+-----------------
+| baffle()     |
+-----------------
+| zoop()       |
+-----------------
+| main()       |  
+-----------------
+main → zoop → baffle → ping
+
+Kod Çıktısı : 
+    No, I wug.
+    You wugga wug.
+    I wug.
