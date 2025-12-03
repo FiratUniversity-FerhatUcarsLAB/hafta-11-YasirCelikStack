@@ -1,3 +1,5 @@
+// 250542010 Muhammet Yasir Çelik
+
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
